@@ -1,4 +1,4 @@
-<h1 align="center">Calcul de l’itinéraire pour SNCF Réseau (LizMap & JavaScript)</h1>
+<h1 align="center">Calcul de l’itinéraire pour SNCF Réseau <br>(LizMap & JavaScript)</h1>
 
 Ce travail s'inscrit dans le cadre du développement d’une application webmapping pour SNCF Réseau (Sûreté), visant à intégrer des fonctionnalités interactives de calcul d’itinéraire dans LizMap. 
 
