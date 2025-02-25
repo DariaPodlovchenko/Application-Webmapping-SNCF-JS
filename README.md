@@ -25,7 +25,10 @@ Points clés :
 - OpenRouteService API (calcul des distances)
 - WFS (Web Feature Service) (récupération des données des gares)
 
+<div align="center">
+    <img src="https://github.com/DariaPodlovchenko/Application-Webmapping-SNCF-JS/raw/main/img.jpg" width="600">
+</div>
+
 Cette fonctionnalité fait partie d’un travail plus large sur le développement d’une application LizMap pour SNCF Réseau (Sûreté). Elle pourra être étendue et optimisée, notamment en explorant des solutions alternatives de routage ou en ajoutant des critères supplémentaires pour les itinéraires.
 
 📌 Dans le document PDF, vous trouverez une description détaillée de l'algorithme du code.
-
